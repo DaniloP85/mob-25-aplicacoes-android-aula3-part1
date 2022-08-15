@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Exercicio1</string>
-    <string name="escolha_um_n_mero_0_a_1">Escolha um numero de 0 a 1</string>
+    <string name="escolha_um_n_mero_0_a_1">Escolha um número de 0 a 1</string>
     <string name="rodar">rodar</string>
-    <string name="nenhum_n_mero_selecionado">Nenhum numero selecionado</string>
+    <string name="nenhum_n_mero_selecionado">Nenhum número selecionado</string>
 </resources>
